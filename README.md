@@ -1,48 +1,61 @@
 # 手ぶらジャケット
-ノートパソコンやケーブルなどが全て入るジャケット。
+
+ノートPCやケーブル類を全て収納可能なジャケット。
+
 
 ## Description
-仕事に必要なアイテムを全て収納して、手ぶらでお出かけできるジャケット。収納力豊富で機能的にも関わらず、オンスタイルにも対応可能なデザインで気分も上がる。
 
-***DEMO:***
+ノートPCやケーブル類を全てポケットに収納して手ぶらで移動できるジャケット。これさえあればバッグやリュックが不要に。  
+収納力が豊富にも関わらず、シンプルかつミニマルなデザインを実現。その結果、幅広いTPOで着用可能に。
 
-![Demo](https://image-url.gif)
+![Demo](https://user-images.githubusercontent.com/16587694/131467671-f0adaea6-324b-4f79-bdf0-894b2597bcb9.gif)
 
-## Features
 
-- PCや周辺機器が全てポケットに収納可能
-- 収納豊富で機能的だがミニマルで上品なデザイン
-- パソコンを入れても型くずれしないプリーツ搭載
-- 皺になりにくくウォッシャブルなのでイージーケア
-- 肩から背負うことができるストラップ付き
+## 特徴
 
-## Requirement
+- 豊富な収納力：背中にはノートPC、内ポケットにはケーブル類や周辺機器が全て収納可能
+- 幅広いTPOに対応：シンプルかつミニマルなデザインなので様々なシーンで着用可能
+- イージーケア：シワになりにくくウォッシャブルな素材
+- 機能とデザインの両立：背中にノートPCを入れてもシルエットが崩れないデザイン
+- ストラップ装備：背中のストラップでリュックを背負うようにノートPCも楽々運べる
+- 脱いでも手ぶら：脱いだジャケットはストラップで背負うことができるので相変わらず手ぶらのまま
 
-- Requirement
-- Requirement
 
-## Usage
+## フォトギャラリー
 
-1. パスポートなどの貴重品を入れる
-2. タブレットを入れる
-3. パソコンを入れる
-4. 袖をまくって（ロールアップして）変化を付ける
-5. ストラップの使用例
+<img src="https://user-images.githubusercontent.com/16587694/131495942-ec80f79b-e395-4a5a-8436-d31953d768dc.jpg" width="400" alt="手ぶらジャケット -前" title="手ぶらジャケット -前"><img src="https://user-images.githubusercontent.com/16587694/131496080-f100adaf-3076-4911-8321-aeac570be998.jpg" width="400" alt="手ぶらジャケット -前(袖をロールアップ、スナップボタンを外した状態)" title="手ぶらジャケット -前(袖をロールアップ、スナップボタンを外した状態)">  
 
-## Installation
+<img src="https://user-images.githubusercontent.com/16587694/131496168-152890c1-b940-4277-aa0e-600d17acb90c.jpg" width="400" alt="手ぶらジャケット -後" title="手ぶらジャケット -後"><img src="https://user-images.githubusercontent.com/16587694/131496288-77081b5d-b93a-4f99-ad4b-6f637f740c3b.jpg" width="400" alt="手ぶらジャケット -内側ポケット" title="手ぶらジャケット -内側ポケット">  
 
-    $ git clone https://github.com/RAKKU-DESIGN/handsfree-jacket
+<img src="https://user-images.githubusercontent.com/16587694/131515434-8c1156c1-f25c-4d4f-8c47-2578d8da0549.jpg" width="400" alt="手ぶらジャケット -背面メッシュポケットアップ（パソコン収納時）" title="手ぶらジャケット -背面メッシュポケットアップ（パソコン収納時）"><img src="https://user-images.githubusercontent.com/16587694/131513926-5efb3755-6a61-478d-8daf-1fa33b9c44e6.jpg" width="400" alt="手ぶらジャケット -内ポケット" title="手ぶらジャケット -内ポケット">  
 
-## Anything Else
+**[他の写真も見てみる](https://photos.app.goo.gl/PBbonAKteDQMeFLNA)**
 
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
+
+## 仕様
+
+**※実際の商品を手にとってご覧いただけける試着会を開催予定です。日程が決まり次第インスタグラムやこちらのページでお知らせ致します。**
+
+| |Sサイズ|Mサイズ|Lサイズ|
+|:---|---:|---:|---:|
+|身幅|121cm|127cm|133cm|
+|肩幅|41.4cm|42.9cm|44.4cm|
+|袖丈|59.5cm|61.5cm|63.5cm|
+|着丈|75cm|77cm|79cm|
+
+| |素材|
+|:---|:---|
+|表地|ポリエステル 100%|
+|裏地|ポリエステル 65%、綿 35%|
+|メッシュ|ポリエステル 100%|
+|袖裏|キュプラ 100%|
+
+| |取り扱い方法|
+|:---|:---|
+|洗濯|手洗いまたは洗濯機の場合は洗濯ネット使用|
+|アイロン|あて布使用|
+
 
 ## Author
 
 [@RAKKU_DESIGN](https://www.instagram.com/rakku_design/)
-
-## License
-
-[MIT](http://b4b4r07.mit-license.org)
